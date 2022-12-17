@@ -1,0 +1,21 @@
+{
+  "name": "follow_test_playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomasfacquet/follow_test_playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thomasfacquet/follow_test_playwright/issues"
+  },
+  "homepage": "https://github.com/thomasfacquet/follow_test_playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.29.0"
+  }
+}
